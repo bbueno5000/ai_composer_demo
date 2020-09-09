@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ai_composer_demo", "ai_composer_demo\ai_composer_demo.pyproj", "{1F4B37E1-CEDE-4CAB-BDEC-8A8C7FE29584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4B37E1-CEDE-4CAB-BDEC-8A8C7FE29584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4B37E1-CEDE-4CAB-BDEC-8A8C7FE29584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C00FBE8-4326-41CC-9A56-38DFD90DF760}
+	EndGlobalSection
+EndGlobal
